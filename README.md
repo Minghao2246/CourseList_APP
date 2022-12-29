@@ -79,3 +79,5 @@ overall quality of my code. To be more specific, for example I would probably re
 the Course class since it is handling to things, one which is all the basic functionality and property of a course, the
 other one is creating a JPanel which also deals with adding buttons and JLabels. I would also perhaps form a composite 
 design pattern/structure to improve the overall project.
+
+This projects is licensed under the (MIT License)[#LICENSE].
