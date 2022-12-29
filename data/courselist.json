@@ -1,0 +1,22 @@
+{"courses": [
+    {
+        "grade": 90,
+        "name": "test",
+        "comment": "did great!"
+    },
+    {
+        "grade": 34,
+        "name": "test2",
+        "comment": "oh no!!! try harder"
+    },
+    {
+        "grade": 50,
+        "name": "test3",
+        "comment": "ooof, passed"
+    },
+    {
+        "grade": 100,
+        "name": "test4",
+        "comment": "wow! I did an amazing job!"
+    }
+]}
